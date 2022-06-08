@@ -1,0 +1,81 @@
+
+
+.nextButton{
+    position:absolute;
+    bottom:0;
+    right:0;
+}
+
+.expertsButtons{
+    
+    width:100%;
+   
+    margin:1px;
+    
+}
+
+.buttonContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+.expertsCard{
+margin:5%;
+margin-top: 3%;
+border:2px solid rgb(225, 225, 225)}
+
+.expertsButton{
+
+    margin-top:3%;
+    margin-left:5%;
+    margin-right:5%;
+    width:5%;
+    background-color: #d77b6176;
+    border:none;
+    border-radius: 10px !important;
+    
+}
+
+.card{
+    border: 2px solid gainsboro !important;
+}
+.card-group>.card+.card {
+    margin-left:5%;
+    
+}
+
+.btn-group>.btn:not(:first-child){
+    margin-left: 5%;
+}
+.expertsButton:hover{
+    background-color: #d79481;
+}
+
+.roomImage{
+    
+    width:100%;
+}
+
+.btn-group>.btn-check:checked+.btn{
+    background-color: #d79481;
+}
+.btn-group>.btn-check:active+.btn{
+    background-color: #d79481;
+    border:none;
+    outline: none;
+  box-shadow: none;
+  border:none;
+}
+.btn-group>.btn-check:focus+.btn{
+    outline: none;
+  box-shadow: none;
+  border:none;
+}
+
+.subtitle{
+    text-align: center;
+    margin-top: 3%;
+}

@@ -1,0 +1,22 @@
+.getStarted{
+    width:30%;
+    font-size: xx-large;
+    height:120px;
+    border: none;
+    margin-top: 2%;
+    border-radius: 12px;
+    background-color: #d77b6176;
+
+}
+
+.getStarted:hover {
+    background-color: #d79481;
+    color: white;
+  }
+
+  .linkwrapper{
+      height:40vh;
+      width:70%;
+      text-align: center;
+
+  }
