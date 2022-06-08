@@ -16,14 +16,14 @@ export default function Header() {
           <Col>
           
           <h1  style={{ textShadow: '2px 2px 5px grey', paddingTop:'1%', color: 'white', fontSize: '80px', textAlign: 'center'}}><HouseDoor style={{lineHeight:'50px', verticalAlign: 'middle', paddingBottom: '1%'}} color="white" size={100}/> OnlineDesign</h1>
-          <h2 style={{textAlign: 'center', fontFamily: 'Quicksand, sans-serif'}}>Helping you create your dream home.</h2>
+          <h2 style={{textAlign: 'center'}}>Helping you create your dream home.</h2>
           </Col>
           </Row>
 
 <Row style={{paddingTop: '3%'}}>
   <Col>
   <div className="AboutUs">
-    <h3 style={{textAlign: 'center', fontFamily: 'Quicksand, sans-serif'}}>Who We Are</h3>
+    <h3 style={{textAlign: 'center'}}>Who We Are</h3>
     <p>OnlineDesign is your place to go for online interior design consultation. We have a highly skilled team of designers that will help you achieve the style you've always fantasized about. Since our services are online, we're able to offer more affordable and accessible interior design to everyone. A beautiful home is not just for high budgets! 
     </p>
     </div></Col>
